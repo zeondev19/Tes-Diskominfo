@@ -1,4 +1,6 @@
-# API E-commerce
+# Tes Diskominfo API E-commerce
+
+Tengku Bintang Zaky Irmaysa
 
 ## Deskripsi
 
@@ -143,9 +145,9 @@ project-root/
 4. Delete an order
    - DELETE `/api/orders/{id}`
 
-## Testing
+## Testing API with Postman
 
-Anda dapat menggunakan Postman untuk menguji API. Import collection Postman yang disediakan atau buat request sesuai dengan endpoint yang dijelaskan di atas.
+Untuk memudahkan pengujian API, Anda dapat menggunakan koleksi Postman yang ada pada repo ini dengan nama tesDiskominfo.postman_collection.json
 
 ## Kontribusi
 
